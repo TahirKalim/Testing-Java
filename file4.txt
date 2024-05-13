@@ -3,3 +3,5 @@ new line
 second line
 
 third line
+
+New line is added
