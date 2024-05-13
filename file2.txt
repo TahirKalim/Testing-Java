@@ -1,3 +1,7 @@
 new file
 
 New commit
+
+new stuff
+
+new master changes
